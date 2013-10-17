@@ -37,5 +37,7 @@ The plugin can be used like any other jQuery plugin:
 $('css-selector').mobileMenu({option:value, option:value});
 
 ## Licence
-There isn't one, because I'm nice.
-Feel free to say "thanks" or attribute the script to this page if you find it useful.
+This plugin has been released under the terms of GNU GPL v3. A license file has been attached. The terms are available online too:
+http://www.gnu.org/licenses/gpl.txt
+
+This is the forked version of Original Script(https://github.com/mattkersley/Responsive-Menu/blob/master/license) which was released under Public Domain.
